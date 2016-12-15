@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\young\git\cpp_final\cpp_final\cpp_final\key.h(33): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  cpp_final.vcxproj -> C:\Users\Young\git\cpp_final\cpp_final\Debug\cpp_final.exe
+  cpp_final.vcxproj -> C:\Users\Young\git\cpp_final\cpp_final\Debug\cpp_final.pdb (Full PDB)

@@ -146,10 +146,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="List.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TimeStamp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Key.h" />
+    <ClInclude Include="KeyEvent.h" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="Marker.h" />
+    <ClInclude Include="sNode.h" />
+    <ClInclude Include="Schedule.h" />
     <ClInclude Include="Time.h" />
     <ClInclude Include="TimeStamp.h" />
   </ItemGroup>
